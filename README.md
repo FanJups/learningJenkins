@@ -15,6 +15,10 @@ https://www.google.com/search?q=how+to+start+jenkins+in+windows&oq=how+to+start+
 
 https://stackoverflow.com/questions/14869311/start-stop-and-restart-jenkins-service-on-windows
 
+## shut down jenkins
+
+https://stackoverflow.com/questions/10238604/how-to-shutdown-my-jenkins-safely/44860630#44860630
+
 
 
 
