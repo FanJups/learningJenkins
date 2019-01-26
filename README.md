@@ -53,6 +53,26 @@ https://www.google.com/search?q=http+error+404+jenkins&oq=http+error+404+jenkins
 
 https://stackoverflow.com/questions/49124434/getting-http-error-404-with-jenkins
 
+## how to add maven in jenkins
+
+https://www.google.com/search?q=how+to+add+maven+in+jenkins&oq=how+to+add+maven+in+j&aqs=chrome.1.69i57j0l5.12191j1j7&sourceid=chrome&ie=UTF-8
+
+http://www.itcuties.com/tools/jenkins-installation-and-configuration-with-maven-ant-and-github/
+
+## create a job with the ‘Maven project’ option
+
+https://www.google.com/search?q=how+to+create+a+job+with+the+%E2%80%98Maven+project%E2%80%99+option+%3F&oq=how+to+create+a+job+with+the+%E2%80%98Maven+project%E2%80%99+option+%3F&aqs=chrome..69i57.14277j0j7&sourceid=chrome&ie=UTF-8
+
+http://www.tothenew.com/blog/how-to-setup-jenkins-for-a-maven-project/
+
+https://medium.com/@anusha.sharma3010/build-a-simple-maven-project-in-jenkins-da7a2a4ae202
+
+## how to change the language of jenkins
+
+https://www.google.com/search?q=how+to+change+the+la%2Cguage+of+jenkins&oq=how+to+change+the+la%2Cguage+of+jenkins&aqs=chrome..69i57j0.13281j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/12350707/jenkins-in-windows-shows-ui-in-russian-language
+
 
 
 
