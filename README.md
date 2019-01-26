@@ -47,6 +47,14 @@ Similar to my problem : https://stackoverflow.com/questions/41821218/jenkins-wit
 
 https://jenkins.io/mailing-lists/
 
+## http error 404 jenkins
+
+https://www.google.com/search?q=http+error+404+jenkins&oq=http+error+404+jenkins&aqs=chrome..69i57j0l5.3214j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/49124434/getting-http-error-404-with-jenkins
+
+
+
 
 
 
