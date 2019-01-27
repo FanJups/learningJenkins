@@ -73,6 +73,14 @@ https://www.google.com/search?q=how+to+change+the+la%2Cguage+of+jenkins&oq=how+t
 
 https://stackoverflow.com/questions/12350707/jenkins-in-windows-shows-ui-in-russian-language
 
+## sample build.xml file for jenkins
+
+https://www.google.com/search?q=sample+build.xml+file+for+jenkins&oq=build.xml+file+jenkins+&aqs=chrome.1.69i57j0.16585j1j7&sourceid=chrome&ie=UTF-8
+
+http://www.inanzzz.com/index.php/post/6wd2/running-ant-build-xml-script-with-jenkins
+
+https://eureka.ykyuen.info/2013/10/04/jenkins-setup-a-simple-ant-build-project/
+
 
 
 
