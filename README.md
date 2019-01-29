@@ -81,6 +81,14 @@ http://www.inanzzz.com/index.php/post/6wd2/running-ant-build-xml-script-with-jen
 
 https://eureka.ykyuen.info/2013/10/04/jenkins-setup-a-simple-ant-build-project/
 
+## how to install selenium hudson plugin in jenkins ?
+
+https://www.google.com/search?q=how+to+install+selenium+hudson+plugin+in+jenkins+%3F&oq=how+to+install+selenium+hudson+plugin+in+jenkins+%3F&aqs=chrome..69i57.18556j1j7&sourceid=chrome&ie=UTF-8
+
+https://wiki.jenkins.io/display/JENKINS/Selenium+Plugin
+
+
+
 
 
 
