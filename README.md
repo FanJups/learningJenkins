@@ -87,6 +87,10 @@ https://www.google.com/search?q=how+to+install+selenium+hudson+plugin+in+jenkins
 
 https://wiki.jenkins.io/display/JENKINS/Selenium+Plugin
 
+## Selenium
+
+https://github.com/SeleniumHQ/selenium/wiki/Grid2
+
 
 
 
