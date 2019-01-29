@@ -91,6 +91,26 @@ https://wiki.jenkins.io/display/JENKINS/Selenium+Plugin
 
 https://github.com/SeleniumHQ/selenium/wiki/Grid2
 
+## Configure the selenium server in jenkins
+
+https://www.google.com/search?q=Configure+the+selenium+server+in+jenkins&oq=Configure+the+selenium+server+in+jenkins&aqs=chrome..69i57.5755j0j7&sourceid=chrome&ie=UTF-8
+
+## how to launch slave in jenkins
+
+https://www.google.com/search?ei=EvVPXI6fDuyGjLsP8-aE-AY&q=how+to+launch+slave+in+jenkins&oq=How+to+start+slaves+in+je&gs_l=psy-ab.1.0.0i22i30l6.165872.183258..184686...2.0..0.111.1943.22j4......0....1..gws-wiz.....6..0i71j35i39j0i131j0j0i3j0i203j0i20i263j33i22i29i30.OYzOt2ojWHM
+
+https://wiki.jenkins.io/pages/viewpage.action?pageId=75893667&navigatingVersions=true
+
+## jenkins SeleniumHQ htmlSuite Run build step
+
+https://www.google.com/search?q=jenkins+SeleniumHQ+htmlSuite+Run+build+step&oq=jenkins+SeleniumHQ+htmlSuite+Run+build+step&aqs=chrome..69i57.42680j0j7&sourceid=chrome&ie=UTF-8
+
+https://wiki.jenkins.io/display/JENKINS/Seleniumhq+Plugin
+
+http://mirrors.jenkins-ci.org/plugins/seleniumhq/
+
+
+
 
 
 
