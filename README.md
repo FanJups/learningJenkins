@@ -109,6 +109,14 @@ https://wiki.jenkins.io/display/JENKINS/Seleniumhq+Plugin
 
 http://mirrors.jenkins-ci.org/plugins/seleniumhq/
 
+## notification plugin from Tikal Knowledge which allows sending Job Status notifications in JSON and XML formats
+
+https://www.google.com/search?q=notification+plugin+from+Tikal+Knowledge+which+allows+sending+Job+Status+notifications+in+JSON+and+XML+formats&oq=notification+plugin+from+Tikal+Knowledge+which+allows+sending+Job+Status+notifications+in+JSON+and+XML+formats&aqs=chrome..69i57.1069j0j7&sourceid=chrome&ie=UTF-8
+
+https://wiki.jenkins.io/display/JENKINS/Notification+Plugin
+
+https://plugins.jenkins.io/notification
+
 
 
 
