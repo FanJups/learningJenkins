@@ -117,6 +117,12 @@ https://wiki.jenkins.io/display/JENKINS/Notification+Plugin
 
 https://plugins.jenkins.io/notification
 
+## Jenkins detected that you appear to be running more than one instance of Jenkins that share the same home directory 'C:\Users\Admin\.jenkins’. This greatly confuses Jenkins and you will likely experience strange behaviors, so please correct the situation.
+
+https://www.google.com/search?q=Jenkins+detected+that+you+appear+to+be+running+more+than+one+instance+of+Jenkins+that+share+the+same+home+directory+%27C%3A%5CUsers%5CAdmin%5C.jenkins%E2%80%99.+This+greatly+confuses+Jenkins+and+you+will+likely+experience+strange+behaviors%2C+so+please+correct+the+situation.&oq=Jenkins+detected+that+you+appear+to+be+running+more+than+one+instance+of+Jenkins+that+share+the+same+home+directory+%27C%3A%5CUsers%5CAdmin%5C.jenkins%E2%80%99.+This+greatly+confuses+Jenkins+and+you+will+likely+experience+strange+behaviors%2C+so+please+correct+the+situation.&aqs=chrome..69i57.1059j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/21480876/error-jenkins-detected-running-multiple-instances
+
 
 
 
