@@ -123,6 +123,12 @@ https://www.google.com/search?q=Jenkins+detected+that+you+appear+to+be+running+m
 
 https://stackoverflow.com/questions/21480876/error-jenkins-detected-running-multiple-instances
 
+## launch method " Launch agents using Java Web Start " not found jenkins
+
+https://www.google.com/search?q=launch+method+%22+Launch+agents+using+Java+Web+Start+%22+not+found+jenkins&oq=launch+method+%22+Launch+agents+using+Java+Web+Start+%22+not+found+jenkins&aqs=chrome..69i57.30240j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/40340097/there-is-no-launch-agent-via-java-web-start-option-in-my-jenkins-when-i-adding
+
 
 
 
